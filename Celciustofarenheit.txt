@@ -1,0 +1,7 @@
+Converting celcius to farenheit
+print screen asking user to put in temperature in celcius
+Take in user input 
+take the (input * 9/5) + 32
+get output
+print answer in farenheit on screen
+

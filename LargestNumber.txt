@@ -1,0 +1,8 @@
+ask user to add the list of numbers
+read user input
+compare each integer against eachother
+eliminate the smaller ones
+recompare the larger numbers
+if numbers are equivalent they stay
+compare until there is the highest number left
+print out the highest number as the output

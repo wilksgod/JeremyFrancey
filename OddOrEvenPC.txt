@@ -1,0 +1,9 @@
+Print if number is odd or even
+Print on screen asking for user to input number
+record user input
+take the input and /2
+if input/2 gives floating number
+then output is odd
+if input/2 gives interger 
+then output is even
+print out on screen if number is odd or even
